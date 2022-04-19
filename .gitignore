@@ -1,3 +1,5 @@
-book
+/book
+/ugo-rust-book/book
+
 *.out*
-_zz
+_zz*
